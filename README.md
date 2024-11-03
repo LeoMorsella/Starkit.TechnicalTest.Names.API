@@ -1,0 +1,1 @@
+# Starkit.TechnicalTest.Names.API
