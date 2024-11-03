@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87EDFCB-1220-4BD9-BCAC-8C905D8C5E8E}|Persistence\\Persistence.csproj|d:\\challenge starkit\\starkit.technicaltest.names.api\\starkit.test.namesapi\\persistence\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87EDFCB-1220-4BD9-BCAC-8C905D8C5E8E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B23936-D16A-4D45-B0D9-9626C40A86B4}|App\\App.csproj|d:\\challenge starkit\\starkit.technicaltest.names.api\\starkit.test.namesapi\\app\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B23936-D16A-4D45-B0D9-9626C40A86B4}|App\\App.csproj|solutionrelative:app\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7427261-5EFC-425F-BD4E-A3B964405AA2}|Test\\Test.csproj|d:\\challenge starkit\\starkit.technicaltest.names.api\\starkit.test.namesapi\\test\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7427261-5EFC-425F-BD4E-A3B964405AA2}|Test\\Test.csproj|solutionrelative:test\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7427261-5EFC-425F-BD4E-A3B964405AA2}|Test\\Test.csproj|d:\\challenge starkit\\starkit.technicaltest.names.api\\starkit.test.namesapi\\test\\test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7427261-5EFC-425F-BD4E-A3B964405AA2}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996D28FE-FE62-4704-8755-D0348BB81743}|Models\\Models.csproj|d:\\challenge starkit\\starkit.technicaltest.names.api\\starkit.test.namesapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996D28FE-FE62-4704-8755-D0348BB81743}|Models\\Models.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test",
+              "DocumentMoniker": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T19:33:53.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonTest.cs",
+              "DocumentMoniker": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Test\\PersonTest.cs",
+              "RelativeDocumentMoniker": "Test\\PersonTest.cs",
+              "ToolTip": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Test\\PersonTest.cs",
+              "RelativeToolTip": "Test\\PersonTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:37:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Persistence\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Persistence\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:41:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:30:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\App\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Challenge StarkIT\\Starkit.TechnicalTest.Names.API\\Starkit.Test.NamesApi\\App\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "App\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:05:48.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
